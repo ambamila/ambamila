@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**ambamila/ambamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[MuhammadHaikalKamil]**, a passionate developer who loves to build, explore, and innovate with code. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools:
+- **Languages:** HTML, JavaScript, Yaml
+- **Frameworks & Libraries:** React, Node.js
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Github
+- **Databases:** MySql
+
+---
+
+### 👽 About Me:
+- 🔭 I’m a Cyber security
+- 🌱 I’m learning **Cyber**
+- 🚀 I love working on **CTF, Hacking**
+
+---
+
+### 🌍 Connect with Me:
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/haikall_mil?igsh=NnZqM2lmb2JvNmo3)
+---
+
+💡 *"Code. Build. Innovate."*
